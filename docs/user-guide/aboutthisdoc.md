@@ -1,6 +1,6 @@
 # Downloadable PDF file
 
-You can download this documentation for Zowe as PDF file. Click here to view and download the PDF file.
+You can download this documentation for Zowe as PDF file. Click [here](https://github.com/zowe/docs-site/blob/master/docs/user-guide/PDF/Zowe_User_Guide.pdf) to view and download the PDF file.
 
 # About this documentation
 
